@@ -1,0 +1,15 @@
+C:\Users\ashto\Desktop\MIS221\mis-221-lab-4-acboliver\bin\Debug\net7.0\mis-221-lab-4-acboliver.exe
+C:\Users\ashto\Desktop\MIS221\mis-221-lab-4-acboliver\bin\Debug\net7.0\mis-221-lab-4-acboliver.deps.json
+C:\Users\ashto\Desktop\MIS221\mis-221-lab-4-acboliver\bin\Debug\net7.0\mis-221-lab-4-acboliver.runtimeconfig.json
+C:\Users\ashto\Desktop\MIS221\mis-221-lab-4-acboliver\bin\Debug\net7.0\mis-221-lab-4-acboliver.dll
+C:\Users\ashto\Desktop\MIS221\mis-221-lab-4-acboliver\bin\Debug\net7.0\mis-221-lab-4-acboliver.pdb
+C:\Users\ashto\Desktop\MIS221\mis-221-lab-4-acboliver\obj\Debug\net7.0\mis-221-lab-4-acboliver.csproj.AssemblyReference.cache
+C:\Users\ashto\Desktop\MIS221\mis-221-lab-4-acboliver\obj\Debug\net7.0\mis-221-lab-4-acboliver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashto\Desktop\MIS221\mis-221-lab-4-acboliver\obj\Debug\net7.0\mis-221-lab-4-acboliver.AssemblyInfoInputs.cache
+C:\Users\ashto\Desktop\MIS221\mis-221-lab-4-acboliver\obj\Debug\net7.0\mis-221-lab-4-acboliver.AssemblyInfo.cs
+C:\Users\ashto\Desktop\MIS221\mis-221-lab-4-acboliver\obj\Debug\net7.0\mis-221-lab-4-acboliver.csproj.CoreCompileInputs.cache
+C:\Users\ashto\Desktop\MIS221\mis-221-lab-4-acboliver\obj\Debug\net7.0\mis-221-lab-4-acboliver.dll
+C:\Users\ashto\Desktop\MIS221\mis-221-lab-4-acboliver\obj\Debug\net7.0\refint\mis-221-lab-4-acboliver.dll
+C:\Users\ashto\Desktop\MIS221\mis-221-lab-4-acboliver\obj\Debug\net7.0\mis-221-lab-4-acboliver.pdb
+C:\Users\ashto\Desktop\MIS221\mis-221-lab-4-acboliver\obj\Debug\net7.0\mis-221-lab-4-acboliver.genruntimeconfig.cache
+C:\Users\ashto\Desktop\MIS221\mis-221-lab-4-acboliver\obj\Debug\net7.0\ref\mis-221-lab-4-acboliver.dll
